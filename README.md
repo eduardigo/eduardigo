@@ -6,6 +6,4 @@
 
 ### - Other technologies I already had contact are Java, Swift, React Native, NoSQL, gRPC, Docker, HTML, CSS, C, Flask, JQuery and TypeScript.
 
-### - Throughout my programming time I have done and I've been taking several courses. Their certificates are available in [here](./certificates/) or in my [LinkedIn](https://www.linkedin.com/in/eduardo-braga/).
-
 ### - My main hobbies are playing guitar and keyboard, playing board games and watching good TV shows.
